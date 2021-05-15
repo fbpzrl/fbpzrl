@@ -5,7 +5,6 @@
 - 📫 How to reach me > 
 - - https://www.linkedin.com/in/fabiobissoli/
 - - https://fabiobissoli.com.br
-- - https://instagram.com/fabiobissolionline
 
 <!---
 fbpzrl/fbpzrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
