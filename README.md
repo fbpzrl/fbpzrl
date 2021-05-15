@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabio Piazzarollo
-- 👀 I’m interested in tecnology in general
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning Java, Spring Boot and microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me > 
 - - https://www.linkedin.com/in/fabiobissoli/
