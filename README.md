@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabio Piazzarollo
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning Java, Spring Boot and microservices
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Youversion app as first level volunteer
 - 📫 How to reach me > 
 - - https://www.linkedin.com/in/fabiobissoli/
 - - https://fabiobissoli.com.br
