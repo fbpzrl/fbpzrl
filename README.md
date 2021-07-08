@@ -1,6 +1,11 @@
-Front-End / Mobile Developer
+<img src="https://img.shields.io/badge/Fabio%20Piazzarollo-0077B5?logo=linkedin&logoColor=white">
 
-<a href="https://www.linkedin.com/in/fabiobissoli" rel="nofollow"><img src="https://pt.seaicons.com/wp-content/uploads/2016/03/Linkedin-icon-5.png">Fabio Piazzarollo</a>
+ 👋 Hi, I’m Fabio Piazzarollo
+👀 I’m interested in web and mobile development
+🌱 I’m currently learning Java, Spring Boot and microservices
+  
+  
+Front-End / Mobile Developer
 
 <!---
 fbpzrl/fbpzrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
