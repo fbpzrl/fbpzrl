@@ -1,11 +1,10 @@
-<img src="https://img.shields.io/badge/Fabio%20Piazzarollo-0077B5?logo=linkedin&logoColor=white">
+<div align="center">
+ <h1>Hi dear 👋, I’m Fabio Piazzarollo</h1>
+ <h3>A Front-End / Mobile student, and technology enthusiast</h3>
+</div>
+<a href="https://www.linkedin.com/in/fabiobissoli"><img src="https://img.shields.io/badge/Fabio%20Piazzarollo-0077B5?logo=linkedin&logoColor=white"></a>
 
- 👋 Hi, I’m Fabio Piazzarollo
-👀 I’m interested in web and mobile development
-🌱 I’m currently learning Java, Spring Boot and microservices
-  
-  
-Front-End / Mobile Developer
+- <h4>🌱 I’m currently learning Java, Spring Boot and microservices</h4>
 
 <!---
 fbpzrl/fbpzrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
