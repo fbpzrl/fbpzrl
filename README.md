@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hi dear 👋, I’m Fabio Piazzarollo</h1>
+ <h1>Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">, I’m Fabio Piazzarollo</h1>
  <h3>A Front-End / Mobile student, and technology enthusiast</h3>
  <a href="https://www.linkedin.com/in/fabiobissoli" target="_blank"><img src="https://img.shields.io/badge/Fabio%20Piazzarollo-0077B5?logo=linkedin&logoColor=white"></a>
 </div>
