@@ -8,8 +8,8 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/.net-purple?style=for-the-badge&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/asp.net-purple?style=for-the-badge&logo=asp net&logoColor=white">
+ <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/.net-purple?style=for-the-badge&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=https://www.w3schools.com/html/&logoColor=white"> <img src="https://img.shields.io/badge/asp.net-purple?style=for-the-badge&logo=asp net&logoColor=white">
 </div>
 
 <div align="center">
