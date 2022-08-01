@@ -4,6 +4,12 @@
  <a href="https://www.linkedin.com/in/fabiobissoli" target="_blank"><img src="https://img.shields.io/badge/Fabio%20Piazzarollo-0077B5?logo=linkedin&logoColor=white"></a>
 </div>
 
+<div>
+
+<a href="https://www.w3schools.com/html" target="_blank"><img src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white"></a>
+
+</div>
+
 <!---
 fbpzrl/fbpzrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
