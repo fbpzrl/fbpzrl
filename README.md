@@ -6,9 +6,9 @@
 <br>
 <div align="center">
 
-<a href="https://www.w3schools.com/html" target="_blank"><img src="https://img.shields.io/badge/html5-darkred?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="https://www.w3schools.com/html" target="_blank"><img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"></a> 
+<a href="https://www.w3schools.com/html" target="_blank"><img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="https://www.w3schools.com/css" target="_blank"><img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"></a> 
 <br>
-<a href="https://www.w3schools.com/html" target="_blank"><img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"></a> <a href="https://www.w3schools.com/html" target="_blank"><img src="https://img.shields.io/badge/TYPESCRIPT-darkblue?style=for-the-badge&logo=typescript&logoColor=white"></a> <a href="https://www.w3schools.com/html" target="_blank"><img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TYPESCRIPT-darkblue?style=for-the-badge&logo=typescript&logoColor=white"></a><a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"></a>
 </div>
 
 <!---
